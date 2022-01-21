@@ -14,9 +14,6 @@
 - [Styled-components]
 - [React-testing-library]
 
-And of course Dillinger itself is open source with a [public repository][dill]
-on GitHub.
-
 ## Installation
 
 Install the dependencies and devDependencies and start the server.
